@@ -1,1 +1,2 @@
 "this is file2 content" 
+new thing is added into file2 in copy2
